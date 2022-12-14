@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clickCounter/static/css/main.989c798b.css",
+    "main.js": "/clickCounter/static/js/main.6b017ed5.js",
+    "static/js/787.017f40a6.chunk.js": "/clickCounter/static/js/787.017f40a6.chunk.js",
+    "index.html": "/clickCounter/index.html",
+    "main.989c798b.css.map": "/clickCounter/static/css/main.989c798b.css.map",
+    "main.6b017ed5.js.map": "/clickCounter/static/js/main.6b017ed5.js.map",
+    "787.017f40a6.chunk.js.map": "/clickCounter/static/js/787.017f40a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.989c798b.css",
+    "static/js/main.6b017ed5.js"
+  ]
+}
